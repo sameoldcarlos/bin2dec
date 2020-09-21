@@ -1,7 +1,7 @@
 # bin2dec
 ```
 A simple binary-to-decimal converter using Vue.js
-´´´
+```
 ## Project setup
 ```
 npm install
